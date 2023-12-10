@@ -1,0 +1,21 @@
+@import "./colors";
+@import "./reset";
+@import "./home";
+@import "./resume";
+@import "./work";
+@import "./testemonial";
+@import "./about";
+@import "./contact";
+@import "./sidebar";
+@import "./fonts";
+@import "./typography";
+@import "./structure";
+@import "./responsive";
+@import "./buttons";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
